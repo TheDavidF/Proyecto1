@@ -1,0 +1,15 @@
+MetodoMain\Main.class
+SuperAutoPets\ModoJuego\ModoJuego.class
+SuperAutoPets\Player\Player.class
+Controlador\mascota.class
+Batalla\Batalla.class
+SuperAutoPets\Player\JugadorP.class
+SuperAutoPets\MenuEntreBatallas\MenuEntreBatallas.class
+SuperAutoPets\Comida\Comida.class
+SuperAutoPets\Mascota\Mascota.class
+Controlador\Tienda.class
+SuperAutoPets\ModoJuego\Modovrs.class
+Controlador\Controlador.class
+Controlador\Boot.class
+SuperAutoPets\ModoJuego\ModoCreativo.class
+SuperAutoPets\ModoJuego\ModoArena.class
